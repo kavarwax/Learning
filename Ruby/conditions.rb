@@ -17,3 +17,5 @@ emails.each do |email|
 		puts "Hello !!"
 	end
 end
+
+puts "This is a wonderful GitHub integration with Atom Test!"
