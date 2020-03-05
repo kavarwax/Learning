@@ -1,0 +1,4 @@
+Add Atom package to run JavaScript in Atom:
+- File > Settings > Install
+- Search for Package called "script" (from rgbkrk)
+- Install
